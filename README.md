@@ -54,10 +54,14 @@ This script allows you to back up your PostgreSQL databases using Python. It con
 ## Testing
 
 Tested on
-    - Ubuntu 20.04
-    - Ubuntu 22.04
-    - Ubuntu 24.04
-    
+
+OS:
+- Ubuntu 20.04
+- Ubuntu 22.04
+- Ubuntu 24.04
+
+Postgres version: 13,14,15
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
