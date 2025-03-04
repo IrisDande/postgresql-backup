@@ -8,7 +8,7 @@ This script allows you to back up your PostgreSQL databases using Python. It con
 
 ## Requirements
 
-- Python 3.x
+- Python 3.x: Recommendation to run with Python Virutalenv to avoid any conflict
 - PostgreSQL
 - S3 bucket access right with Acces Key, IAM Role, IAM Role anywhere. Any method that allow script access s3 via boto3
 
